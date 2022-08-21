@@ -113,7 +113,9 @@
         flex-direction: column;
         align-items: center;
         border-radius: 30px;
+       
     }
+    
 
     .contenedorClases .clases .contBtnConectar {
         text-align: center;
@@ -151,18 +153,48 @@
         /* margin-top: 75px; */
         /* margin-left: 500px;
         margin-right: 500px; */
-        border: solid;
-        border-radius: 5px 1px 30px;
-        font-size: 25px;
+        /* border: solid; */
+        border-radius: 1px 30px;
+        font-size: 20px;
+        animation-name: tituloCambiante;
+        animation-duration: 2s;
+        /* animation-iteration-count: infinite; */
+    }
+    
+    @keyframes tituloCambiante{
+        0%{
+       
+        color: #FEB139;
+
+        }
+        25%{
+            font-size: 1.1rem;
+
+        }
+        50%{
+            border-radius: 0px;
+        }
+     
     }
 
     .contenedorShows li {
         margin-top: 10px;
-        font-size: 25px;
+        font-size: 15px;
         list-style: none;
         text-align: center;
-    }
+        animation-name: textoCambiante;
+        animation-duration: 2s;
 
+    }
+    @keyframes textoCambiante {
+        0%{
+            font-size: 15px;
+        }
+
+        50%{
+            font-size: 25px;
+        }
+    }
     /* CONTACTO */
 
     .contContacto {
