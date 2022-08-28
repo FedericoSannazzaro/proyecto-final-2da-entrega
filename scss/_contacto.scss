@@ -1,0 +1,42 @@
+.contContacto {
+    background-color: #293462;
+    padding: 10px;
+    width: 33.33vw;
+    margin: 0 auto;
+    align-items: center;
+    text-align: center;
+    color: white;
+    font-size: 0.8rem;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.contContacto label {
+    width: 25vw;
+    margin-bottom: 5px;
+    font-size: 1.0rem;
+    font-weight: bold;
+    text-align: left;
+}
+
+.contContacto input {
+    /* text-align: center; */
+    width: 25vw;
+}
+
+.contContacto textarea {
+    text-align: center;
+    width: 25vw;
+}
+
+.contContacto .btnEnviar {
+    margin: 25px;
+    padding: 10px;
+    background-color:#fff;
+    color: white;
+    font-size: 1.0rem;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+}

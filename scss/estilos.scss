@@ -1,0 +1,20 @@
+@import'./variables/variables'; // variables van al principio
+
+@import'./estilosgenerales';
+
+@import './header';
+
+// PAGES
+@import'./index';
+@import './clases';
+@import './contacto';
+@import './galeria';
+@import './shows';
+
+
+@import'./footer';
+
+@import'./variables/mediaqueries'; // van al final
+
+
+

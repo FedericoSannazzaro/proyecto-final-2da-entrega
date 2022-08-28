@@ -1,0 +1,52 @@
+header {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    
+    .navBar {
+        background: #293462 !important;
+        font-size: 20px;
+        display: flex;
+        justify-content: space-between !important;
+        align-items: center;
+        padding: 5px;
+        
+        .logo {
+            width: 150px;
+            &:hover{
+            transform: scale(1.05);  
+            }
+        }
+        .navbar-toggler {
+            border: solid white;
+        }
+
+
+        .listPrin {
+            display: flex;
+            flex-wrap: wrap;
+
+            .itemPrin {
+                a {
+                    color: white !important;
+                    font-family: 15px;
+                    text-decoration: none;
+                    font-weight: bolder;
+                    padding: 5px;
+                    margin: 5px;
+                    &:hover{
+                        color: #FEB139 !important;
+                        transform: scale(1.05);
+                    }
+                   
+
+                }
+            }
+        }
+
+    }
+
+    .navbar-expand-lg .navbar-collapse {
+        flex-direction: row-reverse;
+    }
+}

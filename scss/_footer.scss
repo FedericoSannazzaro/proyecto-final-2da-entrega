@@ -1,0 +1,26 @@
+footer {
+    text-align: center;
+    font-size: 15px;
+    font-weight: bolder;
+    padding: 15px;
+    background-color: #293462;
+}
+
+footer .listFooter {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+
+footer .listFooter .logoRed {
+    margin: 25px 25px 25px;
+
+}
+
+footer p{
+    color: #f1f1f1;
+}
+
+.logo{
+    width: 250px;
+}

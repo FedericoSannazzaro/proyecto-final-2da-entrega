@@ -1,0 +1,38 @@
+.contenedorShows {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column-reverse;
+}
+
+.contenedorShows .tituloDia {
+    width: 250px;
+    margin: 0 auto;
+    margin-top: 25px;
+    background-color: #293462;
+    color: white;
+    /* padding: 50px; */
+    text-align: center;
+    /* margin-top: 75px; */
+    /* margin-left: 500px;
+    margin-right: 500px; */
+    /* border: solid; */
+    border-radius: 1px 30px;
+    font-size: 20px;
+    animation-name: tituloCambiante;
+    animation-duration: 2s;
+    /* animation-iteration-count: infinite; */
+}
+
+.contenedorShows li {
+    margin-top: 10px;
+    font-size: 15px;
+    list-style: none;
+    text-align: center;
+    animation-name: textoCambiante;
+    animation-duration: 2s;
+}
+h3:hover{
+    color: #FEB139 !important;
+    transform: scale(1.05);
+
+}

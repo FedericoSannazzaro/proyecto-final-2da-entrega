@@ -1,0 +1,23 @@
+{
+  "name": "proyectofinal-federicosannazzaro-2da-entrega",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FedericoSannazzaro/repo-git-animaciones.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FedericoSannazzaro/repo-git-animaciones/issues"
+  },
+  "homepage": "https://github.com/FedericoSannazzaro/repo-git-animaciones#readme",
+  "description": "",
+  "devDependencies": {
+    "node-sass": "^7.0.1",
+    "nodemon": "^2.0.19"
+  }
+}

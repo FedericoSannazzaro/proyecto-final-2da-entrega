@@ -1,0 +1,23 @@
+.gridContainer {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-items: center;
+}
+
+.gridContainer img{
+    /* width: 90%; */
+    margin: 10%;
+    transform: all 300ms;
+    
+}
+
+.gridContainer img:hover{
+    transform: scale(1.15);
+    position: relative;
+}
+
+.sombra {
+    float:left;
+    background-color:#FEB139;
+    margin: 10px;
+  }

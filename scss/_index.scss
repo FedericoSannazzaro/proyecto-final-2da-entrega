@@ -1,0 +1,35 @@
+main {
+    background-color: #f1f1f1;
+}
+h1{
+    font-weight: bold;
+}
+
+.banner {
+    width: 100%;
+    /* overflow: hidden; */
+}
+
+.banner img {
+    max-width: 100%;
+}
+
+main p {
+    margin: 25px 100px 25px 100px;
+    text-align: center;
+    font-size: 1rem;
+}
+
+main .contImgMain {
+    text-align: center;
+}
+
+main .contImgMain .imgMain {
+    /* display: block; */
+    width: 100%;
+
+}
+
+main .textSub {
+    text-align: center;
+}

@@ -1,0 +1,66 @@
+@media (max-width: 950px) {
+    .gridContainer {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+}
+
+/* 750px */
+
+@media (max-width: 750px) {
+
+
+    header .navBar {
+        font-size: 15px;
+    }
+
+    header .navBar .logo {
+        width: 150px;
+    }
+
+    .gridContainer {
+        grid-template-columns: repeat(1, 1fr);
+    }
+    
+    .contContacto{
+        width: 100%;
+    }
+       
+    .contContacto input {
+        width: 75vw;
+    }
+
+    .contContacto textarea {
+        width: 75vw;
+    }
+
+
+    .contContacto .nombre{
+        text-align: left;
+    }
+
+    .textPrinContacto {
+        display: none;
+    }
+
+    footer {
+        font-size: 10px;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    footer img {
+        display: none;
+    }
+
+    footer .listFooter .logoRed {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .gridContainer img:hover{
+        transform: scale(1.15);
+        position: relative;
+    }
+
+}
