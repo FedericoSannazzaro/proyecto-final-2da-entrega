@@ -18,27 +18,30 @@
 
     }
 
-    header .navBar {
-        background: #293462;
+    header .navBar  {
+        background: #293462 !important;
         font-size: 20px;
         display: flex;
-        justify-content: space-between;
+        justify-content: space-between !important;
         align-items: center;
         padding: 5px;
     }
-
+    
     header .navBar .logo {
         width: 150px;
     }
-
+    
     header .navBar .listPrin {
         display: flex;
         flex-wrap: wrap;
-
+        
     }
 
+    .navbar-expand-lg .navbar-collapse {
+        flex-direction: row-reverse;
+    }
     header .navBar .listPrin .itemPrin a {
-        color: white;
+        color: white !important;
         font-family: 15px;
         text-decoration: none;
         font-weight: bolder;
@@ -47,7 +50,11 @@
     }
 
     header .navBar .listPrin .itemPrin a:hover {
-        color: #FEB139;
+        color: #FEB139 !important;
+    }
+
+    .navbar-toggler {
+        border: solid white;
     }
 
     /* MAIN */
@@ -273,7 +280,7 @@
         font-weight: bolder;
         padding: 15px;
     }
-
+    
     footer .listFooter {
         display: flex;
         align-items: center;
@@ -302,12 +309,11 @@
 
 
         header .navBar {
-            flex-direction: column;
             font-size: 15px;
         }
 
         header .navBar .logo {
-            width: 50px;
+            width: 150px;
         }
 
         .gridContainer {
