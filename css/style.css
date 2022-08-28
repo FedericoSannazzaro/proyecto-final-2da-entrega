@@ -9,15 +9,16 @@
         list-style: none;
         box-sizing: border-box;
     }
-    /* HEADER */
 
+    /* HEADER */
+    
     header {
         position: sticky;
         top: 0;
         z-index: 1;
-
+        
     }
-
+    
     header .navBar  {
         background: #293462 !important;
         font-size: 20px;
@@ -36,7 +37,7 @@
         flex-wrap: wrap;
         
     }
-
+    
     .navbar-expand-lg .navbar-collapse {
         flex-direction: row-reverse;
     }
@@ -48,21 +49,24 @@
         padding: 5px;
         margin: 5px;
     }
-
+    
     header .navBar .listPrin .itemPrin a:hover {
         color: #FEB139 !important;
     }
-
+    
     .navbar-toggler {
         border: solid white;
     }
-
+    
     /* MAIN */
-
+    
     main {
         background-color: #f1f1f1;
     }
-
+    h1{
+        font-weight: bold;
+    }
+    
     .banner {
         width: 100%;
         /* overflow: hidden; */
@@ -100,46 +104,17 @@
 
     /* CLASES/CURSOS */
 
-    .contenedorClases {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-around;
-        margin-top: 25px;
-        margin-bottom: 25px;
-        list-style: none;
-    }
-
-    .clases {
+    .clasesMain .card{
         text-align: center;
-        width: 750px;
-        height: 250px;
-        padding: 25px;
-        /* border: #D61C4E solid 3px; */
-        margin-bottom: 5px;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        border-radius: 30px;
-       
-    }
-    
-
-    .contenedorClases .clases .contBtnConectar {
-        text-align: center;
-        width: 75%;
+        margin: 20px;   
     }
 
-    .contenedorClases .clases .contBtnConectar .btnConectar {
-        font-size: bold 25px;
-        background-color: #D61C4E;
+    .clasesMain .card-header{
+        text-align: start;
+        background-color: #293462;
         color: white;
-        width: 100%;
-        margin-top: 25px;
-        padding: 10px;
-        border-radius: 15px;
-        cursor: pointer;
-        border: none;
     }
+
 
     /* SHOWS */
 
@@ -207,17 +182,15 @@
     .contContacto {
         background-color: #293462;
         padding: 10px;
-        /* display: flex; */
-        flex-direction: column;
         width: 33.33vw;
         margin: 0 auto;
-        /* flex-wrap: nowrap; */
         align-items: center;
         text-align: center;
         color: white;
         font-size: 0.8rem;
-        /* border: solid; */
         border-radius: 3px;
+        margin-bottom: 10px;
+        margin-top: 10px;
     }
 
     .contContacto label {
@@ -225,10 +198,11 @@
         margin-bottom: 5px;
         font-size: 1.0rem;
         font-weight: bold;
+        text-align: left;
     }
 
     .contContacto input {
-        text-align: center;
+        /* text-align: center; */
         width: 25vw;
     }
 
@@ -236,10 +210,6 @@
         text-align: center;
         width: 25vw;
     }
-
-    /* .contContacto label {
-    margin-left: 50px;
-    } */
 
     .contContacto .btnEnviar {
         margin: 25px;
@@ -272,6 +242,13 @@
         position: relative;
     }
 
+    .sombra {
+        float:left;
+        background-color:#FEB139;
+        margin: 10px;
+      }
+    
+
     /* FOOTER */
 
     footer {
@@ -279,6 +256,7 @@
         font-size: 15px;
         font-weight: bolder;
         padding: 15px;
+        background-color: #293462;
     }
     
     footer .listFooter {
@@ -290,6 +268,10 @@
     footer .listFooter .logoRed {
         margin: 25px 25px 25px;
 
+    }
+
+    footer p{
+        color: #f1f1f1;
     }
 
     /* MEDIA QUERYS */
@@ -325,15 +307,17 @@
         }
            
         .contContacto input {
-            text-align: center;
             width: 75vw;
         }
     
         .contContacto textarea {
-            text-align: center;
             width: 75vw;
         }
     
+
+        .contContacto .nombre{
+            text-align: left;
+        }
 
         .textPrinContacto {
             display: none;
@@ -352,6 +336,11 @@
         footer .listFooter .logoRed {
             display: flex;
             justify-content: space-between;
+        }
+
+        .gridContainer img:hover{
+            transform: scale(1.15);
+            position: relative;
         }
 
     }
