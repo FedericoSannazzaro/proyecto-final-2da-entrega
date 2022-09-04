@@ -7,5 +7,14 @@
             text-align: start;
             background-color: #293462;
             color: white;
-         }
+          }
+
+        .card-body{
+            .btn{
+                @extend %estilo-btn;
+                @include color-btn-fondo ($colorRojo);
+               
+            }
+        }  
+       
     }

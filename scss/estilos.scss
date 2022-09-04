@@ -1,4 +1,6 @@
 @import'./variables/variables'; // variables van al principio
+@import './variables/extend';
+@import'./variables/mixins';
 
 @import'./estilosgenerales';
 
@@ -15,6 +17,7 @@
 @import'./footer';
 
 @import'./variables/mediaqueries'; // van al final
+
 
 
 

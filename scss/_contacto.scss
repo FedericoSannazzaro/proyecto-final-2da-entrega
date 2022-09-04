@@ -30,13 +30,7 @@
     width: 25vw;
 }
 
-.contContacto .btnEnviar {
-    margin: 25px;
-    padding: 10px;
-    background-color:#fff;
-    color: white;
-    font-size: 1.0rem;
-    font-weight: bold;
-    border-radius: 10px;
-    cursor: pointer;
+.contContacto .btn {
+    @extend %estilo-btn;
+    @include color-btn-fondo ($colorRojo);
 }

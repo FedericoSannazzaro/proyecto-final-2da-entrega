@@ -4,7 +4,7 @@ header {
     z-index: 1;
     
     .navBar {
-        background: #293462 !important;
+        background: $colorAzul !important;
         
         font-size: 20px;
         display: flex;
@@ -36,8 +36,9 @@ header {
                     padding: 5px;
                     margin: 5px;
                     &:hover{
-                        color: #FEB139 !important;
+                        color: $colorAmarillo !important;
                         transform: scale(1.05);
+                        transition: 0.3s;
                     }
                    
 

@@ -1,4 +1,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;700&display=swap");
+.contContacto .btn, .clasesMain .card-body .btn {
+  margin: 25px;
+  padding: 10px;
+  color: white;
+  font-size: 1rem;
+  font-weight: bold;
+  border-radius: 5px;
+  border: none;
+}
+
 * {
   padding: 0;
   margin: 0;
@@ -6,7 +16,6 @@
   list-style: none;
   box-sizing: border-box;
 }
-
 
 main {
   background-color: #f1f1f1;
@@ -31,7 +40,6 @@ header .navBar {
   justify-content: space-between !important;
   align-items: center;
   padding: 5px;
- 
 }
 header .navBar .logo {
   width: 150px;
@@ -57,6 +65,7 @@ header .navBar .listPrin .itemPrin a {
 header .navBar .listPrin .itemPrin a:hover {
   color: #FEB139 !important;
   transform: scale(1.05);
+  transition: 0.3s;
 }
 header .navbar-expand-lg .navbar-collapse {
   flex-direction: row-reverse;
@@ -107,6 +116,9 @@ main .textSub {
   background-color: #293462;
   color: white;
 }
+.clasesMain .card-body .btn {
+  background-color: #D61C4E !important;
+}
 
 .contContacto {
   background-color: #293462;
@@ -140,15 +152,8 @@ main .textSub {
   width: 25vw;
 }
 
-.contContacto .btnEnviar {
-  margin: 25px;
-  padding: 10px;
-  background-color: #fff;
-  color: white;
-  font-size: 1rem;
-  font-weight: bold;
-  border-radius: 10px;
-  cursor: pointer;
+.contContacto .btn {
+  background-color: #D61C4E !important;
 }
 
 .gridContainer {
@@ -165,6 +170,7 @@ main .textSub {
 
 .gridContainer img:hover {
   transform: scale(1.15);
+  transition: 0.3s;
   position: relative;
 }
 
@@ -172,6 +178,10 @@ main .textSub {
   float: left;
   background-color: #FEB139;
   margin: 10px;
+}
+
+.brian {
+  box-shadow: 10px 10px 10px 10px;
 }
 
 .contenedorShows {
@@ -251,6 +261,14 @@ footer p {
   }
   header .navBar .logo {
     width: 150px;
+  }
+  .itemPrin a {
+    color: white !important;
+    font-family: 15px;
+    text-decoration: none;
+    font-weight: bolder;
+    padding: 5px;
+    margin: 5px;
   }
   .gridContainer {
     grid-template-columns: repeat(1, 1fr);
