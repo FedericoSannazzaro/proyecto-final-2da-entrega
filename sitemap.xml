@@ -1,0 +1,832 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/issues</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/pulls</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/actions</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/projects</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/security</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/commit/7583a302509152841019d09af5917c5c6879d4a7</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/commit/b8147909099bc4c6d212701b7a8a9c967c6490d7</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/commit/cf3c3cdc101cc1ece30dd7c7ffcb0a049be57a77</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/blob/main/.gitignore</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/blob/main/index.html</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/blob/main/package-lock.json</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/commit/1b3090a20b7fb56614aee1d437b8e53e2a40a511</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/blob/main/package.json</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/releases</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/labels</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/milestones</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/compare</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/actions/runs/2989846504</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/actions/runs/2989846425</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/actions/runs/2989844932</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/actions/runs/2952577222</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/actions/runs/2944256947</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/actions/runs/2943885511</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/actions/runs/2943712914</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/actions/runs/2943429990</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/actions/runs/2943429727</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/actions/runs/2943424181</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/actions/runs/2943213091</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/actions/runs/2943209177</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/actions/runs/2904768687</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/actions/runs/2904766584</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/actions/runs/2904765711</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/projects?type=classic</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/security/policy</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/security/advisories</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/commit/6e14bfd32bdfddee27085740ba20aa708624ba80</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/commit/168b0ca29b206034efc125f06b66c48cb648d2df</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/blob/7583a302509152841019d09af5917c5c6879d4a7/.gitignore</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/find/main</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/blob/7583a302509152841019d09af5917c5c6879d4a7/index.html</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/blob/7583a302509152841019d09af5917c5c6879d4a7/package-lock.json</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/blob/7583a302509152841019d09af5917c5c6879d4a7/package.json</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/labels?sort=name-asc</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/labels?sort=name-desc</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/labels?sort=count-desc</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/labels?sort=count-asc</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/labels/bug</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/labels/documentation</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/labels/duplicate</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/labels/enhancement</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/labels/good%20first%20issue</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/labels/help%20wanted</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/labels/invalid</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/labels/question</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/labels/wontfix</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/milestones?state=open</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/milestones?state=closed</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/runs/8179883851?check_suite_focus=true</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/runs/8179886020?check_suite_focus=true</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/runs/8179886059?check_suite_focus=true</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/actions/runs/2989846504/usage</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/runs/8179883395?check_suite_focus=true</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/runs/8179883693?check_suite_focus=true</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/runs/8179883597?check_suite_focus=true</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/actions/runs/2989846425/usage</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/runs/8179880313?check_suite_focus=true</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/runs/8179883296?check_suite_focus=true</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/runs/8179883265?check_suite_focus=true</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/actions/runs/2989844932/usage</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/runs/8082117064?check_suite_focus=true</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/runs/8082123051?check_suite_focus=true</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/runs/8082123148?check_suite_focus=true</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/actions/runs/2952577222/usage</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/runs/8060002276?check_suite_focus=true</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/runs/8060005076?check_suite_focus=true</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/runs/8060005048?check_suite_focus=true</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/actions/runs/2944256947/usage</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/runs/8059294304?check_suite_focus=true</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/runs/8059297592?check_suite_focus=true</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/runs/8059297621?check_suite_focus=true</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/actions/runs/2943885511/usage</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/runs/8058966430?check_suite_focus=true</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/runs/8058969268?check_suite_focus=true</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/runs/8058969216?check_suite_focus=true</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/actions/runs/2943712914/usage</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/runs/8058408108?check_suite_focus=true</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/runs/8058411102?check_suite_focus=true</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/runs/8058411063?check_suite_focus=true</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/commit/eef91d4128efe5d7e5ce2de5b74cf100a2ec6a49</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/actions/runs/2943429990/usage</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/runs/8058407136?check_suite_focus=true</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/runs/8058408033?check_suite_focus=true</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/runs/8058407998?check_suite_focus=true</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/actions/runs/2943429727/usage</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/runs/8058397147?check_suite_focus=true</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/runs/8058399951?check_suite_focus=true</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/runs/8058399983?check_suite_focus=true</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/actions/runs/2943424181/usage</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/runs/8057992628?check_suite_focus=true</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/runs/8057995283?check_suite_focus=true</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/runs/8057995325?check_suite_focus=true</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/commit/b440c21372aec211f53b026e98eb996910140401</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/actions/runs/2943213091/usage</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/runs/8057984951?check_suite_focus=true</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/runs/8057987957?check_suite_focus=true</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/runs/8057988019?check_suite_focus=true</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/actions/runs/2943209177/usage</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/runs/7954322850?check_suite_focus=true</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/runs/7954335703?check_suite_focus=true</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/runs/7954335928?check_suite_focus=true</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/commit/940aba1fe57a6fb0a00c07aa84fef1c39afbf6ff</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/actions/runs/2904768687/usage</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/runs/7954316687?check_suite_focus=true</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/runs/7954322207?check_suite_focus=true</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/runs/7954322458?check_suite_focus=true</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/actions/runs/2904766584/usage</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/runs/7954312117?check_suite_focus=true</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/runs/7954315999?check_suite_focus=true</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/runs/7954316185?check_suite_focus=true</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/actions/runs/2904765711/usage</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/projects?query=is%3Aopen&amp;type=classic</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/projects?query=is%3Aclosed&amp;type=classic</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/projects?query=is%3Aopen+sort%3Acreated-asc&amp;type=classic</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/projects?query=is%3Aopen+sort%3Aupdated-desc&amp;type=classic</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/projects?query=is%3Aopen+sort%3Aupdated-asc&amp;type=classic</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/projects?query=is%3Aopen+sort%3Aname-asc&amp;type=classic</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/security/advisories?state=published</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/find/7583a302509152841019d09af5917c5c6879d4a7</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/commit/5ad5424e92caa5a5e9871deb1d72bde9222e6bd5</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/projects?query=is%3Aclosed+sort%3Acreated-asc&amp;type=classic</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/projects?query=is%3Aclosed+sort%3Aupdated-desc&amp;type=classic</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/projects?query=is%3Aclosed+sort%3Aupdated-asc&amp;type=classic</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/projects?query=is%3Aclosed+sort%3Aname-asc&amp;type=classic</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/projects?query=sort%3Acreated-asc+is%3Aopen&amp;type=classic</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/projects?query=sort%3Acreated-asc+is%3Aclosed&amp;type=classic</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/projects?query=is%3Aopen+sort%3Acreated-desc&amp;type=classic</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/projects?query=sort%3Aupdated-desc+is%3Aopen&amp;type=classic</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/projects?query=sort%3Aupdated-desc+is%3Aclosed&amp;type=classic</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/projects?query=sort%3Aupdated-asc+is%3Aopen&amp;type=classic</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/projects?query=sort%3Aupdated-asc+is%3Aclosed&amp;type=classic</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/projects?query=sort%3Aname-asc+is%3Aopen&amp;type=classic</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/projects?query=sort%3Aname-asc+is%3Aclosed&amp;type=classic</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/commit/82fdacf10b7906a42191658429d76d172a083524</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/projects?query=is%3Aclosed+sort%3Acreated-desc&amp;type=classic</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/projects?query=sort%3Acreated-desc+is%3Aopen&amp;type=classic</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/FedericoSannazzaro/proyecto-final-2da-entrega/projects?query=sort%3Acreated-desc+is%3Aclosed&amp;type=classic</loc>
+  <lastmod>2022-09-06T22:46:13+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+
+
+</urlset>

@@ -1,0 +1,31 @@
+Colocadas las etiquetas meta keywords en todos los HTML:
+
+Index : stand Up, comedia, shows, teatro, comediantes
+
+Clases : stand up, cursos, clases, comediantes
+
+Contacto : stand Up, comedia, contacto, comediantes"
+
+Galeria : stand Up, shows, teatro, comediantes, encuentros
+
+Shows : tand Up, comedia, teatro, diversion, shows en vivo
+
+---------------------
+
+Agregado de descripciones en todos los HTML :
+
+Index : Stand Up proyect es un sitio que fomenta la comedia.
+
+Clases : Desarrolla tus habilidades con nosotros.
+
+Contacto : Te invitamos a conocernos.
+
+Galeria : Revivi los shows anteriores y preparate para los siguientes.
+
+Shows : Shows en vivo para que diviertas tu noche.
+
+---------------------
+
+Colocados los <title> de forma correcta en todas las paginas.
+
+Creado el Sitemap.xml
