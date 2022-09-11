@@ -139,35 +139,34 @@ main .textSub {
   box-shadow: 10px 10px 10px 10px;
 }
 
+.dia {
+  margin-bottom: 10px;
+}
+
 .contenedorShows {
   display: flex;
-  flex-wrap: wrap;
-  flex-direction: column-reverse;
+  flex-direction: column;
+  align-items: center;
 }
 .contenedorShows .tituloDia {
-  width: 250px;
-  margin: 0 auto;
-  margin-top: 25px;
   background-color: #293462;
   color: white;
   text-align: center;
-  border-radius: 1px 30px;
   font-size: 20px;
-  animation-name: tituloCambiante;
   animation-duration: 2s;
 }
 .contenedorShows li {
-  margin-top: 10px;
+  background-color: #293462;
   font-size: 15px;
   list-style: none;
   text-align: center;
-  animation-name: textoCambiante;
   animation-duration: 2s;
+  color: white;
 }
 
 h3:hover {
   color: #FEB139 !important;
-  transform: scale(1.05);
+  transition: 0.3s;
 }
 
 .contContacto {
