@@ -1,20 +1,32 @@
 .clasesMain {
-        .card {
-            text-align: center;
-            margin: 20px;
-        }
-        .card-header {
-            text-align: start;
-            background-color: #293462;
-            color: white;
-          }
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
 
-        .card-body{
-            .btn{
-                @extend %estilo-btn;
-                @include color-btn-fondo ($colorRojo);
-               
-            }
-        }  
+    .card-img{
+        align-items: center;
        
     }
+    
+    .card {
+        text-align: center;
+        margin: 20px;
+       
+        
+    }
+
+    .card-header {
+        text-align: start;
+        background-color: #293462;
+        color: white;
+    }
+
+    .card-body {
+        .btn {
+            @extend %estilo-btn;
+            @include color-btn-fondo ($colorRojo);
+
+        }
+    }
+
+}
