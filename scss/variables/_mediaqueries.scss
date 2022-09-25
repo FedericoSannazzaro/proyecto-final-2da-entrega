@@ -3,12 +3,6 @@
         grid-template-columns: repeat(2, 1fr);
     }
 
-}
-
-/* 750px */
-
-@media (max-width: 750px) {
-
 
     header .navBar {
         font-size: 15px;
@@ -28,21 +22,21 @@
             font-weight: bolder;
             padding: 5px;
             margin: 5px;
-            
-            }
-           
 
         }
-    
+
+
+    }
+
 
     .gridContainer {
         grid-template-columns: repeat(1, 1fr);
     }
-    
-    .contContacto{
+
+    .contContacto {
         width: 100%;
     }
-       
+
     .contContacto input {
         width: 75vw;
     }
@@ -52,7 +46,7 @@
     }
 
 
-    .contContacto .nombre{
+    .contContacto .nombre {
         text-align: left;
     }
 
@@ -75,9 +69,14 @@
         justify-content: space-between;
     }
 
-    .gridContainer img:hover{
+    .gridContainer img:hover {
         transform: scale(1.15);
         position: relative;
     }
+}
 
+@media (max-width: 750px) {
+    .cont-curso {
+        display: none;
+    }
 }

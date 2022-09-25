@@ -4,18 +4,22 @@ footer {
     font-weight: bolder;
     padding: 15px;
     background-color: #293462;
-        p{
-            color: #f1f1f1;
+
+    p {
+        color: #f1f1f1;
+    }
+
+    .listFooter {
+        display: flex;
+        align-items: center;
+        justify-content: right;
+
+        .logoRed {
+            margin: 25px 25px 25px;
         }
-        .listFooter {
-            display: flex;
-            align-items: center;
-            justify-content: right;
-                .logoRed {
-                    margin: 25px 25px 25px;
-                }
-        .logo{
-                width: 150px;
-            }
+
+        .logo {
+            width: 150px;
         }
+    }
 }

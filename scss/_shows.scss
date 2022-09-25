@@ -1,9 +1,10 @@
+.contenedorShows{
+    overflow: hidden;
+}
 
-.dia{
-    // background-color: #293462 ;
+.dia {
     margin-bottom: 10px;
-    // border-radius: 10px;
-
+    
 }
 
 
@@ -11,32 +12,28 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    // animation-name: tituloCambiante;
+
     .tituloDia {
-        // width: 250px;
-      
-        background-color: #293462;  
+
+        background-color: #293462;
         color: white;
         text-align: center;
-        // border-radius: 1px 30px;
         font-size: 20px;
         animation-duration: 2s;
     }
+
     li {
         background-color: #293462;
-    //    margin-top: 10px;
-       font-size: 15px;
-       list-style: none;
-       text-align: center;
-    //    animation-name: textoCambiante;
-       animation-duration: 2s;
-       color: white;
+        font-size: 15px;
+        list-style: none;
+        text-align: center;
+        animation-duration: 2s;
+        color: white;
     }
 }
 
 
-        h3:hover{
-        color: #FEB139 !important;
-        transition: 0.3s;
-        }
-
+h3:hover {
+    color: #FEB139 !important;
+    transition: 0.3s;
+}

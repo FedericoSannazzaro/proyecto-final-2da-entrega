@@ -1,18 +1,27 @@
 .clasesMain {
-    display: flex;
-    flex-direction: column;
-    align-content: flex-start;
+    display: grid;
+    grid-template-columns: repeat(1, 2fr);
+    justify-items: center;
 
-    .card-img{
-        align-items: center;
-       
+    .cont-curso img:hover {
+        transform: scale(1.01);
+        transition: 0.3s;
+        position: relative;
+        box-shadow: 5px 5px 25px;
     }
-    
+
     .card {
         text-align: center;
         margin: 20px;
-       
-        
+        width: 75%;
+        box-shadow: 10px 10px 25px;
+
+        &:hover {
+            transform: scale(1.01);
+            transition: 0.3s;
+            position: relative;
+
+        }
     }
 
     .card-header {

@@ -2,22 +2,24 @@ header {
     position: sticky;
     top: 0;
     z-index: 1;
-    
+
     .navBar {
-        background: $colorAzul !important;
-        
+        background: $colorAzul  !important;
+
         font-size: 20px;
         display: flex;
         justify-content: space-between !important;
         align-items: center;
         padding: 5px;
-        
+
         .logo {
             width: 150px;
-            &:hover{
-            transform: scale(1.05);  
+
+            &:hover {
+                transform: scale(1.05);
             }
         }
+
         .navbar-toggler {
             border: solid white;
         }
@@ -35,12 +37,13 @@ header {
                     font-weight: bolder;
                     padding: 5px;
                     margin: 5px;
-                    &:hover{
-                        color: $colorAmarillo !important;
+
+                    &:hover {
+                        color: $colorAmarillo  !important;
                         transform: scale(1.05);
                         transition: 0.3s;
                     }
-                   
+
 
                 }
             }
