@@ -254,11 +254,10 @@ footer .logo:hover {
 }
 footer p {
   color: #f1f1f1;
-  font-size: 1.2rem;
+  font-size: 1.1 0.5rem;
 }
 footer p:hover {
   color: #FEB139 !important;
-  transform: scale(1.05);
   transition: 0.3s;
 }
 footer .listFooter {
