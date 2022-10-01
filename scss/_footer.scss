@@ -1,25 +1,44 @@
 footer {
     text-align: center;
-    font-size: 15px;
     font-weight: bolder;
     padding: 15px;
     background-color: #293462;
-
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    
+    .logo{
+        width: 250px;
+        &:hover {
+            transform: scale(1.05);
+            transition: 0.3s;
+        }
+    }
+    
     p {
         color: #f1f1f1;
+        font-size: 1.2rem;
+        &:hover {
+            color: $colorAmarillo  !important;
+            transform: scale(1.05);
+            transition: 0.3s;
+        }
     }
 
     .listFooter {
         display: flex;
         align-items: center;
         justify-content: right;
-
+        
         .logoRed {
             margin: 25px 25px 25px;
+            border-radius: 50px;
+            &:hover {
+                transform: scale(1.12);
+                
+            }
+            
         }
 
-        .logo {
-            width: 150px;
-        }
     }
 }

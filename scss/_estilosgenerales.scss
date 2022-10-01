@@ -9,19 +9,43 @@
 
 }
 
-main {
-    background-color: #f1f1f1;
-}
+body {
+    height: 100vh;
+    width: 100%;
+    position: relative;
+    main {
+        background-color: #f1f1f1;
+        h1 {
+            font-weight: bold;
+            padding-top: 50px;
+            text-align: center;
+            font-size: 2.5rem;
+        }
+        p {
+            margin: 25px 100px 25px 100px;
+            text-align: center;
+            font-size: 1.2rem;
+        }
+        .btn-wsp {
+            position: fixed;
+            width: 60px;
+            height: 60px;
+            line-height: 63px;
+            bottom: 125px;
+            right: 25px;
+            background: #25d366;
+            color: #FFF;
+            border-radius: 50px;
+            text-align: center;
+            font-size: 35px;
+            z-index: 100;
+            transition: all 300ms ease;
+            &:hover {
+                background: #20ba5a;
+                color: white;
+            }
+        }
+    }
 
-h1 {
-    font-weight: bold;
-    padding-top: 50px;
-    text-align: center;
-    font-size: 3rem;
-}
 
-p {
-    margin: 25px 100px 25px 100px;
-    text-align: center;
-    font-size: 1.5rem;
 }
